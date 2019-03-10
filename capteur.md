@@ -195,7 +195,7 @@ Ouvrez le logiciel Mu et essayer différents codes. Puis il faut cliquer sur le 
 
 ## Boutons poussoirs
 
-<img src="image/buttons.png" alt="Boutons A et B" width=40%>
+![buttons](https://user-images.githubusercontent.com/46708365/54084665-d35d2200-4333-11e9-9f47-8a4c6f049087.png)
 
 ### Opérateurs Booléens :
 Avec les deux entrées TOR (Tout Ou Rien), le bouton A, le bouton B, qui ne peuvent prendre chacun que deux valeurs booléennes `False = 0` `True = 1` nous pouvons programmer et tester des fonctions de logique booléenne.
@@ -371,7 +371,7 @@ widgets.ToggleButtons(
 
 ## Touches
 
-<img src="image/pins.png" alt="Touches 0,1,2" width=40%>
+![pins](https://user-images.githubusercontent.com/46708365/54084677-f556a480-4333-11e9-9b92-7de662b94d24.png)
 
 Les trois grandes broches (pin) repérées 0, 1, 2 sont sensibles à un changement de capacité provoqué au contact d'un doigt. Mais pour plus d'efficacité le plus sûr est de raccorder un bout d'un câble à pince crocodile au `GND` et avec l'autre bout de venir toucher la broche `0`.
 
@@ -400,7 +400,7 @@ while True:
 
 Si vous avez suivis ce bloc note et essayer le code sur les différents support proposés, il est possible de passer sur la RaspBerry Pi 3. Cela permettra, comme avec la MicroBit, d'utiliser de réels capteur.Il est aussi possible d'utiliser plus de matériels HardWare, pour avoir une solution plus réelle.
 
-<img src="image/rb_pi.jpg" width=40%>
+![rb_pi](https://user-images.githubusercontent.com/46708365/54084681-07384780-4334-11e9-8d66-35acd14f4cae.jpg)
 
 <strong>Pour cela il sera utile d'avoir :</strong>
 <br> 
@@ -478,13 +478,19 @@ fenetre.mainloop()
 ```
 
 Tkinter est la bibliothèque graphique permettant l'affichage des données nécessaires pour les personnes voulant entrer et savoir la place dans le lieu.
-<img src="http://apprendre-python.com/images/hello-world.png" >
-On peut alors y créer un Canvas comme dans p5.js, et y faire ce qu'on veut.<img src="http://apprendre-python.com/images/tkinter-canvas.png" >
+
+![hello-world](https://user-images.githubusercontent.com/46708365/54084786-7c584c80-4335-11e9-8f46-de179174a39c.png)
+
+On peut alors y créer un Canvas comme dans p5.js, et y faire ce qu'on veut.
+![canvas](https://user-images.githubusercontent.com/46708365/54084780-6a76a980-4335-11e9-9c06-26b4c1314516.png)
 
 Le GPIO permet d'intéragir physiquement avec la carte et donc le programme.
-<img src="image/GPIO_pins.png" width=50%>
+
+![GPIO_pins](https://user-images.githubusercontent.com/46708365/54084689-351d8c00-4334-11e9-87ab-133f20da97ff.png)
+
 Il est possible de le relier à une carte comme celle-ci permermettant des branchements plus simple.
-<img src="image/rb_schema.png" width=50%>
+
+![rb_schema](https://user-images.githubusercontent.com/46708365/54084695-49fa1f80-4334-11e9-9976-fb22969ac1c3.png)
 
 # QCM Récapitulatif:
 
