@@ -7,7 +7,7 @@
 
 ##### Prenons l'exemple d'un self. Ce programme permet d'indiquer aux élèves s'il reste des places disponible dans le self.
 
-<img src="image/schema_self.PNG" alt="shema self" width=50%>
+![schema_self](https://user-images.githubusercontent.com/46708365/54084640-824d2e00-4333-11e9-95b8-3ae81440e7a1.PNG)
 
 # Programmation sur Jupyter Notebook
 
