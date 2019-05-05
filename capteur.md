@@ -211,7 +211,7 @@ while True:
         break
     
     elif button_a.is_pressed():
-        display.scroll("-1")   #la microbit affiche la valeur
+        display.scroll("-1")   #la microbit affiche la valeur 
     
     elif button_b.is_pressed():
         display.scroll("+1")   #la microbit affiche la valeur
